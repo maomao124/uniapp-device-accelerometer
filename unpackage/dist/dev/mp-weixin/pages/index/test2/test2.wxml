@@ -1,0 +1,1 @@
+<view><view class="_h2">{{"x:"+x}}</view><view class="_h2">{{"y:"+y}}</view><view class="_h2">{{"z:"+z}}</view><button type="primary" data-event-opts="{{[['tap',[['button1',['$event']]]]]}}" bindtap="__e">监听加速度</button><button type="primary" data-event-opts="{{[['tap',[['button2',['$event']]]]]}}" bindtap="__e">取消监听加速度</button></view>
